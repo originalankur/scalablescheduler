@@ -1,4 +1,4 @@
-# Scheduler
+# Scalable Scheduler
 
 - Scalable Python Task Scheduling.
 - Simple API.
